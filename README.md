@@ -1,0 +1,1 @@
+This repository provides a comprehensive tutorial on Gaussian Mixture Models (GMM) and the Expectation-Maximization (EM) algorithm, explaining their theoretical foundations, applications, and implementation in Python.
